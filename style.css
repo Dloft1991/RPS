@@ -1,0 +1,5 @@
+body {
+    font-family: Roboto;
+    background: url('./rock-paper-scissors-items.png') center no-repeat;
+    height: 100vh;
+}
